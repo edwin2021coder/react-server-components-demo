@@ -14,7 +14,7 @@ ReactDOM.render(
     <div>
         <h1>{title}</h1>
         <Message name="World" />
-        <Message name="Server" />
+        <Message name="new server" />
     </div>
     </Suspense>,
   document.getElementById('app')
